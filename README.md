@@ -1,1 +1,1 @@
-# Inspired-from-YouTube-tutorial-Parallax-Website-
+Personal project website created by following a YouTube tutorial to enhance web development skills. This site includes [Parallax website responsive design, animations.]. Adapted and customized to demonstrate my learning and ability to build functional web applications.# Inspired-from-YouTube-tutorial-Parallax-Website-
